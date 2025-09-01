@@ -3,7 +3,7 @@ String adress;
 
 int sum;
 
-int div;
+float div;
 
 String messageToStudent;
 
